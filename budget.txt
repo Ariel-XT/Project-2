@@ -1,0 +1,5 @@
+H Housing 750
+U Utilities 400
+F Food 350
+FF Fast_Food 50
+G Groceries 250
